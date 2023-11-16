@@ -15,14 +15,14 @@
   - [Java Project 1 Looping](https://github.com/Taledbetter/Java-Project-1.git)
   - [Java Project 2.](https://github.com/Taledbetter/Java-Project-2..git)
 - <b>C# (.NET Desktop Applications)</b>
-  -[Orders Project](https://github.com/Taledbetter/C-Project-2.git)
-  -[Student Grading](https://github.com/Taledbetter/C-Project-3.git)
+  - [Orders Project](https://github.com/Taledbetter/C-Project-2.git)
+  - [Student Grading](https://github.com/Taledbetter/C-Project-3.git)
 - <b>SQL</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>HTML/CSS</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C++</b>
-  - [Three Projects](https://github.com/Taledbetter/C-Project-1.git)
+  - [Three Projects in one!](https://github.com/Taledbetter/C-Project-1.git)
 
 
 <!--
