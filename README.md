@@ -20,7 +20,7 @@
 - <b>SQL</b>
   - [SQL for an exercise](https://github.com/Taledbetter/SQL-Project.git)
 - <b>HTML/CSS</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Two website Labs](https://github.com/Taledbetter/HTML-CSS-Projects.git)
 - <b>C++</b>
   - [Three Projects in one!](https://github.com/Taledbetter/C-Project-1.git)
 
