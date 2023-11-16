@@ -22,7 +22,7 @@
 - <b>HTML/CSS</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C++</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Three Projects)](https://github.com/Taledbetter/C-Project-1.git)
 
 
 <!--
