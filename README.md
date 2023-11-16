@@ -1,5 +1,7 @@
-<h1>Hello! I'm Tiffany Ledbetter! <br/><a href="https://github.com/Taledbetter">Programmer</a>
-  <a href="https://www.linkedin.com/in/tiffany-ledbetter-909663225/"></a>
+<h1>Hello! I'm Tiffany Ledbetter! <br/></h1>
+<h2>
+<a href="https://github.com/Taledbetter">Programmer/Software Developer</a></h2>
+<a href="https://www.linkedin.com/in/tiffany-ledbetter-909663225/"></a>
    
 
 <h2>👨‍💻 Software Development Projects:</h2>
