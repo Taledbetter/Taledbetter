@@ -7,7 +7,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Graphical Python</b>
-  - [Praciting QPrintDialog and QFileDialog in Python](https://github.com/Taledbetter/Graphical-Python-Project-1.git)
+  - [Practicing QPrintDialog and QFileDialog in Python](https://github.com/Taledbetter/Graphical-Python-Project-1.git)
+  - [Date Converter] (https://github.com/Taledbetter/Graphical-Python-Project-2.git)
 - <b>Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Java</b>
