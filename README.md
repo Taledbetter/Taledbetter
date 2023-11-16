@@ -15,9 +15,8 @@
   - [Java Project 1 Looping](https://github.com/Taledbetter/Java-Project-1.git)
   - [Java Project 2.](https://github.com/Taledbetter/Java-Project-2..git)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  -[]
+  -[]
 - <b>SQL</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>HTML/CSS</b>
