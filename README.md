@@ -11,8 +11,8 @@
 - <b>Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Java</b>
-  - [Java Project 1 Looping](https://github.com/Taledbetter/Java-Project-1/README.md)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Java Project 1 Looping](https://github.com/Taledbetter/Java-Project-1.git)
+  - [Java Project 2.](https://github.com/Taledbetter/Java-Project-2..git)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
