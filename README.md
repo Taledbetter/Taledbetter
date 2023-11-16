@@ -18,7 +18,7 @@
   - [Orders Project](https://github.com/Taledbetter/C-Project-2.git)
   - [Student Grading](https://github.com/Taledbetter/C-Project-3.git)
 - <b>SQL</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SQL for an exercise](https://github.com/Taledbetter/SQL-Project.git)
 - <b>HTML/CSS</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C++</b>
